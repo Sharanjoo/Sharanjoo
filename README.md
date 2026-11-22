@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sharan Lourduraj
 
-<!--
-**Sharanjoo/Sharanjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & data engineer building AI and data systems for manufacturing
+quality and compliance. MS Applied Data Intelligence @ SJSU (Dec 2027).
+Previously Software Engineer at Koch Industries, automating AWS database
+upgrades and disaster-recovery checks.
 
-Here are some ideas to get you started:
+### Featured
+- **[AegisOps](https://github.com/Sharanjoo/aegisops)**: event-driven self-healing
+  operations platform for Kubernetes microservices
+- **DeviationTrace**: audit-validation tool for regulated manufacturing
+- **OrionQueue**: GPU workload scheduler in Go + Python
+- **CI/CD Pipeline with Vulnerability Mitigation**: GitHub Actions, Snyk, Trivy
+  ([IEEE ICRASET 2023](link-to-paper))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+Python · Go · TypeScript · AWS · Kafka · Kubernetes · Docker · GitHub Actions
+
+📫 [LinkedIn](https://www.linkedin.com/in/sharan-lourduraj-ba818825a/) · sharanjoseph16@gmail.com
